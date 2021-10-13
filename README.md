@@ -6,5 +6,5 @@ A text based adventure in the magical world of Greymerrow.
 
 ## Initial Contributers
 
-- [Vishal Codes](https://github.com/vishal-codes)
+- [Vishal Shinde](https://github.com/vishal-codes)
 - [Shreyashka Patel](https://github.com/ShreyashkaPatel)
